@@ -1,0 +1,31 @@
+@import'vars';
+@import'header';
+@import'footer';
+@import'main';
+@import'container3';
+
+
+.item{
+    font-family: $main-font;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+   
+.text3{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    
+
+}
+
+
+
+.pics{
+    display: flex;
+    gap: 15px;
+}

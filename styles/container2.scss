@@ -1,0 +1,78 @@
+@import'vars';
+.container2{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    grid-template-rows: repeat(8,1fr);
+    width: 1196px;
+height: 823px;
+    padding: 0px;
+    gap: 10px;
+    margin:25px;
+    font-family: $main-font;
+ border-top: 10px;
+border-bottom: 10px;
+
+.Awwwards{
+    grid-row: 1/5;
+    grid-column: 1/5;
+ 
+    }
+  .CSSDesignAwards{
+    grid-row: 5/9;
+    grid-column: 1/5;
+  }
+
+   .Site-of-the-day1{
+    grid-row: 1/3;
+    grid-column: 5/7;
+   }
+.Best-navigation1{
+grid-row: 3/5;
+grid-column: 5/7;
+    }
+   .Site-of-the-day2{
+    grid-row: 5/7;
+    grid-column: 5/7;
+   }
+    .Best-navigation2{
+        grid-row: 7/9;
+        grid-column: 5/7;
+    }
+    .Genesis-UI-Kit1{
+        grid-row: 1/3;
+        grid-column: 7/10;
+
+         }
+         .Genesis-Template1{
+            grid-row: 3/5;
+            grid-column: 7/10;
+         }
+
+         .Genesis-UI-Kit2{
+            grid-row: 5/7;
+            grid-column: 7/10;
+
+             }
+             .Genesis-Template2{
+                grid-row: 7/10;
+                grid-column: 7/10;
+             }
+
+.year1{
+grid-row: 1/3;
+grid-column: 10/12;
+}
+.year2{
+grid-row: 3/5;
+grid-column: 10/12;
+}
+
+.year3{
+grid-row: 5/7;
+grid-column: 10/12;
+}
+.year4{
+grid-row: 7/9;
+grid-column: 10/12;
+}
+}

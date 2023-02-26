@@ -1,0 +1,201 @@
+a {
+  font-family: "Mulish", sans-serif;
+}
+a:hover {
+  color: red;
+}
+
+a {
+  font-family: "Mulish", sans-serif;
+}
+a:hover {
+  color: red;
+}
+
+header {
+  margin: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 23px;
+  left: 126px;
+  top: 61px;
+}
+
+.text2 {
+  font-family: "Mulish", sans-serif;
+}
+
+.logo {
+  margin-left: 30px;
+  font-size: 40px;
+  font-family: "Mulish", sans-serif;
+}
+
+.nav {
+  height: 23px;
+  left: 126px;
+  top: 61px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.nav ul {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.nav ul li {
+  padding: 15px;
+}
+
+.text {
+  left: 0%;
+  right: 0%;
+  top: 23.9%;
+  bottom: 0%;
+  width: 1079px;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 38px;
+}
+
+.text1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.progress {
+  left: 0%;
+  right: 2.36%;
+  top: calc(50% - 11.5px + 5.5px);
+  font-family: "Mulish", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #111111;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+a {
+  font-family: "Mulish", sans-serif;
+}
+a:hover {
+  color: red;
+}
+
+footer {
+  font-family: "Mulish", sans-serif;
+  width: 1110px;
+  height: 23px;
+  left: 125px;
+  top: 3770px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+a {
+  font-family: "Mulish", sans-serif;
+}
+a:hover {
+  color: red;
+}
+
+main {
+  margin: 50px;
+  background: #FFFFFF;
+  padding: 10px;
+}
+
+li {
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  list-style-type: none;
+  color: #111111;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
+
+.rectangle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
+
+.rectangle1 {
+  border: none;
+  font-family: "Mulish", sans-serif;
+}
+.rectangle1 .input-field {
+  outline: none;
+  border: none;
+}
+.rectangle1 button {
+  background: #4A4FF2;
+  height: 20px;
+  left: 28%;
+  right: 28%;
+  top: calc(50% - 10px - 1px);
+  width: 125px;
+  height: 50px;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  border: none;
+  color: #FFFFFF;
+}
+.rectangle1 button:hover {
+  background-color: rgb(237, 177, 201);
+  color: rgb(70, 96, 96);
+}
+
+.pic1 {
+  margin: 20px;
+  width: 1110px;
+  height: 570px;
+  left: 125px;
+  top: 626px;
+}

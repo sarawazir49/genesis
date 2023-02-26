@@ -1,0 +1,10 @@
+$background-color:#ffffff;
+$main-font: 'Mulish', sans-serif;
+
+a{
+    font-family:$main-font;
+&:hover{
+    color: red;
+}
+
+}

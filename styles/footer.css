@@ -1,0 +1,16 @@
+a {
+  font-family: "Mulish", sans-serif;
+}
+a:hover {
+  color: red;
+}
+
+footer {
+  font-family: "Mulish", sans-serif;
+  width: 1110px;
+  height: 23px;
+  left: 125px;
+  top: 3770px;
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=footer.css.map */
