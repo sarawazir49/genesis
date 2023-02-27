@@ -1,13 +1,6 @@
 @import'_vars';
 
-.body{
-margin: 25px;
-background: #FFFFFF;
-padding: 10px;
-}
- main{
-    margin: 20px;
- }
+
 
  li{
 font-family:$main-font;
@@ -24,3 +17,9 @@ opacity: 0.6;
  }
 
  
+body{
+   margin: 25px;
+   background: #FFFFFF;
+   padding: 10px;
+   }
+  

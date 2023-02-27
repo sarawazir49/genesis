@@ -6,13 +6,13 @@ a:hover {
 }
 
 .body {
-  margin: 25px;
+  margin: 50px;
   background: #FFFFFF;
   padding: 10px;
 }
 
 main {
-  margin: 20px;
+  margin: 50px;
 }
 
 li {
@@ -32,4 +32,10 @@ li {
           flex-direction: column;
   mix-blend-mode: normal;
   opacity: 0.6;
+}
+
+body {
+  margin: 25px;
+  background: #FFFFFF;
+  padding: 10px;
 }

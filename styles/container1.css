@@ -5,6 +5,16 @@ a:hover {
   color: red;
 }
 
+.body {
+  margin: 50px;
+  background: #FFFFFF;
+  padding: 10px;
+}
+
+main {
+  margin: 50px;
+}
+
 .container1 {
   display: -ms-grid;
   display: grid;
