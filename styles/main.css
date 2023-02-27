@@ -5,16 +5,6 @@ a:hover {
   color: red;
 }
 
-.body {
-  margin: 50px;
-  background: #FFFFFF;
-  padding: 10px;
-}
-
-main {
-  margin: 50px;
-}
-
 li {
   font-family: "Mulish", sans-serif;
   font-style: normal;
@@ -23,13 +13,8 @@ li {
   line-height: 23px;
   list-style-type: none;
   color: #111111;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
   mix-blend-mode: normal;
   opacity: 0.6;
 }
@@ -38,4 +23,4 @@ body {
   margin: 25px;
   background: #FFFFFF;
   padding: 10px;
-}
+}/*# sourceMappingURL=main.css.map */

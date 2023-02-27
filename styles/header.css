@@ -1,0 +1,65 @@
+a {
+  font-family: "Mulish", sans-serif;
+}
+a:hover {
+  color: red;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text2 {
+  font-family: "Mulish", sans-serif;
+}
+
+.logo {
+  margin-left: 30px;
+  font-size: 40px;
+  font-family: "Mulish", sans-serif;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.nav ol {
+  list-style-type: none;
+  display: flex;
+  font-family: "Mulish", sans-serif;
+}
+.nav ol li {
+  padding: 15px;
+  font-family: "Mulish", sans-serif;
+}
+
+.text {
+  max-width: 100%;
+  font-family: "Mulish", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 38px;
+}
+
+.text1 {
+  display: flex;
+}
+
+.progress {
+  left: 0%;
+  right: 2.36%;
+  top: calc(50% - 11.5px + 5.5px);
+  font-family: "Mulish", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #111111;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  display: flex;
+  justify-content: flex-end;
+}/*# sourceMappingURL=header.css.map */
