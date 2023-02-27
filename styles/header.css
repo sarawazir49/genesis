@@ -6,13 +6,11 @@ a:hover {
 }
 
 header {
-  margin: 0;
+  margin: 20px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   height: 23px;
-  left: 126px;
-  top: 61px;
 }
 
 .text2 {
@@ -33,12 +31,14 @@ header {
   justify-content: space-evenly;
   align-items: center;
 }
-.nav ul {
+.nav ol {
   list-style-type: none;
   display: flex;
+  font-family: "Mulish", sans-serif;
 }
-.nav ul li {
+.nav ol li {
   padding: 15px;
+  font-family: "Mulish", sans-serif;
 }
 
 .text {
