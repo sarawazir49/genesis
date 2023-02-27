@@ -1,23 +1,22 @@
 @import'_vars';
-main{
 
-margin: 50px;
-
-
+body{
+margin: 20px;
 background: #FFFFFF;
 padding: 10px;
 }
+
+
  li{
-    font-family:$main-font;
+font-family:$main-font;
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 23px;
-
 list-style-type: none;
 color: #111111;
 display: flex;   
- flex-direction:column;
+flex-direction:column;
 mix-blend-mode: normal;
 opacity: 0.6;
  }
